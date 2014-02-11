@@ -1,0 +1,1 @@
+Adding some content here, with trailing spaces, ok now the spaces are gone
