@@ -12,5 +12,5 @@ for hook in $FILES; do
     # create the symlink, overwriting the file if it exists
     # probably the only way this would happen is if you're using an old version of git
     # -- back when the sample hooks were not executable, instead of being named ____.sample
-    echo "n -s -f $hook $HOOK_DIR/`basename $hook`"
+    ln -s -f $hook $HOOK_DIR/`basename $hook`
 done
