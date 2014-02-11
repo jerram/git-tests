@@ -1,1 +1,3 @@
 Adding some content here, with trailing spaces, ok now the spaces are gone, now they are back, ok now they are gone
+and... now they are back
+and add some new lines at EOF as well
